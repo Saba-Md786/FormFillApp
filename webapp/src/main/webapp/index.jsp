@@ -27,6 +27,10 @@
     <input type="text" placeholder="Sister name" name="Sister" id="Sister" required>
     <br>
 
+    <label for="Brother"><b>Brother Name</b></label>
+    <input type="text" placeholder="Brother name" name="Brother" id="Brother" required>
+    <br>
+
 
      <label for="Mobile No"><b>Mobile No</b></label>
     <input type="number" placeholder="Mobile No" name="Mobile" id="Mobile" required>
