@@ -23,6 +23,11 @@
     <input type="text" placeholder="Father name" name="Father" id="Father" required>
     <br>
 
+    <label for="Sister"><b>Sister Name</b></label>
+    <input type="text" placeholder="Sister name" name="Sister" id="Sister" required>
+    <br>
+
+
      <label for="Mobile No"><b>Mobile No</b></label>
     <input type="number" placeholder="Mobile No" name="Mobile" id="Mobile" required>
     <br>
