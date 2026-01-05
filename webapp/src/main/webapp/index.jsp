@@ -31,6 +31,10 @@
     <input type="text" placeholder="Brother name" name="Brother" id="Brother" required>
     <br>
 
+     <label for="Spouse"><b>Spouse Name</b></label>
+    <input type="text" placeholder="Spouse name" name="Spouse" id="Spouse" required>
+    <br>
+
 
      <label for="Mobile No"><b>Mobile No</b></label>
     <input type="number" placeholder="Mobile No" name="Mobile" id="Mobile" required>
