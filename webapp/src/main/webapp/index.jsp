@@ -35,6 +35,10 @@
     <input type="text" placeholder="Spouse name" name="Spouse" id="Spouse" required>
     <br>
 
+    <label for="Spouse"><b>Child Name</b></label>
+    <input type="text" placeholder="Child name" name="Child" id="Child" required>
+    <br>
+
 
      <label for="Mobile No"><b>Mobile No</b></label>
     <input type="number" placeholder="Mobile No" name="Mobile" id="Mobile" required>
