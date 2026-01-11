@@ -40,6 +40,11 @@
     <br>
 
 
+    <label for="Sister"><b>Daughter name</b></label>
+    <input type="text" placeholder="Daughter name" name="Daughter" id="Daughter" required>
+    <br>
+
+
      <label for="Mobile No"><b>Mobile No</b></label>
     <input type="number" placeholder="Mobile No" name="Mobile" id="Mobile" required>
     <br>
