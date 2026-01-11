@@ -10,7 +10,7 @@
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
 
-    <label for="Adhar name"><b>name</b></label>
+    <label for="Adhar name"><b>Adhar name</b></label>
     <input type="text" placeholder="Enter Adharname" name="Adharname" id="Adharname" required>
     <br>
 
