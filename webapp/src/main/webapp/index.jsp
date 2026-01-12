@@ -53,6 +53,11 @@
     <input type="number" placeholder="Mobile No" name="Mobile" id="Mobile" required>
     <br>
 
+    <label for="address"><b>address</b></label>
+    <input type="text" placeholder="Address" name="address" id="address" required>
+    <br>
+
+
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
