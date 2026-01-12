@@ -15,8 +15,8 @@
     <br>
 
 
-    <label for="Pancard no"><b>Pancard no</b></label>
-    <input type="text" placeholder="Enter Pancard no" name="Pancardname" id="Pancardname" required>
+    <label for="Pancard_no"><b>Pancard_no</b></label>
+    <input type="text" placeholder="Enter Pancard no" name="Pancard-name" id="Pancard-name" required>
     <br>
 
 
