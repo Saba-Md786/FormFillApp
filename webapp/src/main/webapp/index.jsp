@@ -57,8 +57,8 @@
     <input type="text" placeholder="Address" name="address" id="address" required>
     <br>
 
-     <label for="local address"><b>localaddress</b></label>
-    <input type="text" placeholder="localAddress" name="localaddress" id="localaddress" required>
+     <label for="Local_address"><b>Local_address</b></label>
+    <input type="text" placeholder="Local_Address" name="Local_address" id="Local_address" required>
     <br>
 
     <label for="email"><b>Email</b></label>
